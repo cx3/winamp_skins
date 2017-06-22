@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="description" content="Winamp Skin: BathTile Bleu">
+<meta name="keywords" content="Winamp Skins, BathTile Bleu">
+<script language="javascript" type="text/javascript">
+<!--
+ if (top.location != self.location) { top.location.href=self.location.href; }
+//-->
+</script>
+<title>Winamp Skin: BathTile Bleu</title>
+<link rel="stylesheet" href="images/style.css" type="text/css" />
+</head>
+<body>
+<a name="top"></a>
+<div id="header"><a href="/"><span>AllWinampSkins.com - Winamp Skins</span></a></div>
+<div id="content">
+<script language="Javascript" type="text/javascript">
+<!--
+var expDays = 90;
+var exp = new Date(); 
+
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function SetCookie(name, value) 
+{
+	var argv = SetCookie.arguments;
+	var argc = SetCookie.arguments.length;
+	var expires = (argc > 2) ? argv[2] : null;
+	var path = (argc > 3) ? argv[3] : null;
+	var domain = (argc > 4) ? argv[4] : null;
+	var secure = (argc > 5) ? argv[5] : false;
+	document.cookie = name + "=" + escape(value) +
+		((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+		((path == null) ? "" : ("; path=" + path)) +
+		((domain == null) ? "" : ("; domain=" + domain)) +
+		((secure == true) ? "; secure" : "");
+}
+
+SetCookie('skins', 1);
+
+//-->
+</script>
+<div class="text navigation">
+		Categories:
+ [<a href="winamp_skins.a.html">A</a>]  [<a href="winamp_skins.b.html">B</a>]  [<a href="winamp_skins.c.html">C</a>]  [<a href="winamp_skins.d.html">D</a>]  [<a href="winamp_skins.e.html">E</a>]  [<a href="winamp_skins.f.html">F</a>]  [<a href="winamp_skins.g.html">G</a>]  [<a href="winamp_skins.h.html">H</a>]  [<a href="winamp_skins.i.html">I</a>]  [<a href="winamp_skins.k.html">K</a>]  [<a href="winamp_skins.l.html">L</a>]  [<a href="winamp_skins.m.html">M</a>]  [<a href="winamp_skins.n.html">N</a>]  [<a href="winamp_skins.o.html">O</a>]  [<a href="winamp_skins.p.html">P</a>]  [<a href="winamp_skins.q.html">Q</a>]  [<a href="winamp_skins.r.html">R</a>]  [<a href="winamp_skins.s.html">S</a>]  [<a href="winamp_skins.t.html">T</a>]  [<a href="winamp_skins.v.html">V</a>]  [<a href="winamp_skins.w.html">W</a>]  [<a href="winamp_skins.x.html">X</a>]  [<a href="winamp_skins.y.html">Y</a>]  [<a href="winamp_skins.z.html">Z</a>]  [<a href="winamp_skins.other.html">other</a>] </div>
+<div class="text">
+</div><div class="items">
+	<div class="item item-full">
+		<h2>Winamp Skin: <a href="winamp_skin.bathtile_bleu.html">BathTile Bleu</a></h2>
+		<div class="item-screenshot"><img src="samples/bathtile_bleu.gif" width="320" height="200" alt="Winamp Skin: BathTile Bleu" /></div>
+		<div class="item-text">
+			Skin: <h3>BathTile Bleu</h3><br />
+			Skin type: <b>Classic</b><br />
+			Downloads: <b>9238</b><br />
+			Skin author: <b>Cappy 17</b><br />
+		</div>
+		<div class="item-download-button"><a href="bathtile_bleu.wsz"><span>Download Winamp Skin</span></a></div>
+		<div class="item-notes">
+			<h3>Winamp Skin "BathTile Bleu" Notes</h3>
+			The original BathTile became involved in a collaboration project called Jeri Ryan in the Pink. I had such fun jazzing up that skin, I decided to update BathTile with even more scrubber-bubble guys and duckies. More than just a color variation, there is new fun here, yet BathTile Bleu still retains that clean and relaxing atmosphere. So if you know who the bubbles are or like rubber duckies, BathTile Bleu is for you.		</div>
+	</div>
+
+<div style="clear: both;"></div>
+</div>
+<div style="display: none;">
+
+	<img src="http://t1.extreme-dm.com/i.gif" name="EXim" border="0" height="38" width="41" alt="">
+	<script type="text/javascript" language="javascript1.2">
+	<!--
+		EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+	//-->
+	</script>
+	<script type="text/javascript">
+	<!--
+		var EXlogin='winamp3' // Login
+		var EXvsrv='s9' // VServer
+		navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+		EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+		EXd.write("<img src=\"http://e0.extreme-dm.com",
+		"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+		"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+		"l="+escape(EXd.referrer)+"\" height=1 width=1>");
+	//-->
+	</script>
+	<noscript><img height="1" width="1" alt="" src="http://e0.extreme-dm.com/s9.g?login=winamp3&amp;j=n&amp;jv=n"/></noscript>
+</div>
+<div class="text">
+<div class="subtext">
+Official Note: This website is in no way associated with Winamp, Nullsoft, AOL Music, and AOL (America Online Corporation). 
+All the trademarks, registered trademarks, brand names, product names, company names, pictures and logos appearing on allwinapskins.com are the property of their respective owners.
+We are NOT responsible for ANY damage, direct or indirect following from the use of allwinampskins.com or any information on this site. 
+We do NOT take ANY responsibility for the content (submitted by the users of this website) on this site or any other site we link to. 
+</div>
+</div>
+
+
+	<div id="copyright">&nbsp;<a title="Zen cart templates" href="http://www.templatemonster.com/zencart-templates.php" target="_blank" rel="nofollow">Zen cart templates</a>&nbsp;</div>
+</div>
+<div id="footer"></div>
+<script type="text/javascript">
+//<![CDATA[
+  document.write('<script'+' src="http://crazyegg.com/pages'+'/scripts/4725.js?'+(new Date()).getTime()+'" type="text/javascript"></scr'+'ipt>');
+//]]>
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4927569-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
